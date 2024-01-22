@@ -1,0 +1,24 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    outline: none;
+    list-style: none;
+    
+}
+
+
+
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(./fae783846d0db2be50e70968d9fe4237.jpg);  
+  
+    
+}
+
+
+.btn{
+    width: 250px;
+    height: 80px;
+}
